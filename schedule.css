@@ -1,0 +1,30 @@
+h1.header {
+    display: flex;
+    font-size: larger;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+    padding-left: 600px;
+}
+.header {
+    z-index: 1000;
+    width: 84%;
+    display: flex;
+    padding: 1vw 8vw;
+    background-color: orange;
+}
+
+
+.daytitle {
+    color:aliceblue;
+}
+
+.days {
+    color:aliceblue;
+    text-align: center;
+}
+.gym {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
